@@ -38,11 +38,11 @@ $(function() {
       }    
   
   /**
-   * Black on white? Well, this is isn't 1990s so ..The Background !
+   * Black on white? Well, this isn't 1990s so ..The Background !
   */
   
       html{
-        background-color: #6c1f45;
+        background-color: #39CCCC;
       }
   
   /**
